@@ -1,2 +1,2 @@
 
-export * from "filterArray"
+export * from "./filterArray"
