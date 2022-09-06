@@ -20,8 +20,8 @@
   "types": "dist/index.d.ts",
   "version": "0.2.0",
   "dependencies": {
-    "pareto-core-internals": "^0.2.0",
+    "pareto-core-internals": "^0.6.0",
     "pareto-core-state": "^0.6.0"
   },
-  "content-fingerprint": "313dd1791f0238e82e0df46db6f56c468a44218e"
+  "content-fingerprint": "7327e611777e7545925c1bc65ee86e9428631319"
 }
