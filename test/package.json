@@ -1,8 +1,5 @@
 {
   "dependencies": {
-    "lib-pareto-test": "^0.4.1",
-    "pareto-core-exe": "^0.9.0",
-    "res-pareto-diff": "^0.10.0",
-    "res-pareto-filesystem": "^0.24.0"
+    "lib-pareto-test": "^0.4.1"
   }
 }
